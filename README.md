@@ -20,3 +20,9 @@
 
 - Improved documentation
 - Added new examples
+
+
+## Update 2024-12-20 10:00:00
+
+- Improved documentation
+- Added new examples
