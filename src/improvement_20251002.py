@@ -3,13 +3,13 @@ Code improvement implementation
 """
 
 class ImprovedClass:
-    """Improved class with better structure"""
+    """Improved class"""
     
     def __init__(self):
         self.data = []
     
     def improved_method(self):
-        """Improved method with better performance"""
+        """Improved method"""
         return sorted(self.data)
     
     def optimized_operation(self):
